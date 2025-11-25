@@ -1,3 +1,4 @@
+![GitHub License](https://img.shields.io/github/license/lbruss/robo-desvia?style=flat)
 # WINDOWS
 
 # Instalação do Windows 11  
