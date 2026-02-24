@@ -90,6 +90,8 @@ Clique em **OK**.
 
 Escolha → Avançar.
 
+**ATENÇÃO: Após avançar, espere a instalação terminar e quando o computador reiniciar ou ficar com a tela preta, retire o pendrive da máquina, se não for retirado, vai acabar entrando em um loop de instalação**
+
 ---
 
 # 5. Caso o Windows bloqueie a instalação (sem requisitos)
