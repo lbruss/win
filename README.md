@@ -90,7 +90,7 @@ Clique em **OK**.
 
 Escolha → Avançar.
 
-**ATENÇÃO: Após avançar, espere a instalação terminar e quando o computador reiniciar ou ficar com a tela preta, retire o pendrive da máquina, se não for retirado, vai acabar entrando em um loop de instalação**
+**ATENÇÃO: Após avançar, espere a instalação terminar e quando o computador reiniciar ou ficar com a tela preta, retire o pendrive da máquina, se não for retirado, vai acabar entrando em um loop de instalação, então preste atenção para tirar o pendrive no momento certo**
 
 ---
 
